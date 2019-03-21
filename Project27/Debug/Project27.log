@@ -1,0 +1,10 @@
+﻿  Source.cpp
+c:\users\тимур\source\repos\project27\project27\source.cpp(15): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\тимур\source\repos\project27\project27\source.cpp(17): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\тимур\source\repos\project27\project27\source.cpp(29): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\тимур\source\repos\project27\project27\source.cpp(31): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\тимур\source\repos\project27\project27\source.cpp(52): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\тимур\source\repos\project27\project27\source.cpp(54): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\тимур\source\repos\project27\project27\source.cpp(45): warning C4101: a: неиспользованная локальная переменная
+c:\users\тимур\source\repos\project27\project27\source.cpp(67): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Project27.vcxproj -> C:\Users\Тимур\source\repos\Project27\Debug\Project27.exe
